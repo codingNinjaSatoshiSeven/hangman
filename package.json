@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/codingNinjaSatoshiSeven/hangman/issues"
   },
-  "homepage": "https://github.com/codingNinjaSatoshiSeven/hangman#readme"
+  "homepage": "https://github.com/codingNinjaSatoshiSeven/hangman#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
 }
